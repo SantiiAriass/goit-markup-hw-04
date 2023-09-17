@@ -682,6 +682,7 @@ a {
   color: var(--icon-color);
   border-radius: 4px;
   border: 1px solid #afb1b8;
+  margin-bottom: 151px;
 }
 .icon-item2:hover {
   color: var(--primary-color);
